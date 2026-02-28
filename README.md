@@ -20,7 +20,7 @@ No credit card required, all features unlocked.
 
 👉 **[Download the Free Trial (ZIP / EXE) here](https://buy.polar.sh/polar_cl_0GiemkyRD70slqTAT8PgkT5FY0l6vgB6hUXjq2Ze6Mg)**
 
-👉 **[Download the Free Trial (ZIP / EXE) here (No email address required) ](https://buy.polar.sh/polar_cl_0GiemkyRD70slqTAT8PgkT5FY0l6vgB6hUXjq2Ze6Mg)**
+👉 **[Download the Free Trial (ZIP / EXE) here (No email address required) ](https://mega.nz/folder/Y00HUK6Z#pVdwT6q_hoLH-yLndrGavw)**
 
 ## 🚀 Get the Full License
 Loved the trial? Get your permanent license key to unlock the app forever.
