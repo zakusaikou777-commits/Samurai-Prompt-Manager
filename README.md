@@ -18,11 +18,11 @@ Samurai Prompt Manager is a lightweight, portable desktop app built specifically
 Not sure if it fits your workflow? Try it completely free for 14 days. 
 No credit card required, all features unlocked.
 
-👉 **[Download the Free Trial (ZIP / EXE) here](https://buy.polar.sh/polar_cl_0GiemkyRD70slqTAT8PgkT5FY0l6vgB6hUXjq2Ze6Mg)**
+👉 **[Download the Free Trial (ZIP / EXE / Portable) here](https://buy.polar.sh/polar_cl_0GiemkyRD70slqTAT8PgkT5FY0l6vgB6hUXjq2Ze6Mg)**
 
-👉 **[Download the Free Trial (ZIP / EXE) here (No email address required1) ](https://mega.nz/folder/Y00HUK6Z#pVdwT6q_hoLH-yLndrGavw)**
+👉 **[Download the Free Trial (ZIP / EXE /Portable) here (No email address required1) ](https://mega.nz/folder/Y00HUK6Z#pVdwT6q_hoLH-yLndrGavw)**
 
-👉 **[Download the Free Trial (ZIP / EXE) here (No email address required2) ](https://samuraiya.booth.pm/items/8038166)**
+👉 **[Download the Free Trial (ZIP / EXE/ Portable) here (No email address required2) ](https://samuraiya.booth.pm/items/8038166)**
 
 ## 🚀 Get the Full License
 Loved the trial? Get your permanent license key to unlock the app forever.
