@@ -22,7 +22,7 @@ No credit card required, all features unlocked.
 
 👉 **[Download the Free Trial (ZIP / EXE) here (No email address required1) ](https://mega.nz/folder/Y00HUK6Z#pVdwT6q_hoLH-yLndrGavw)**
 
-👉**[Download the Free Trial (ZIP / EXE) here (No email address required2) ](https://samuraiya.booth.pm/items/8038166)**
+👉 **[Download the Free Trial (ZIP / EXE) here (No email address required2) ](https://samuraiya.booth.pm/items/8038166)**
 
 ## 🚀 Get the Full License
 Loved the trial? Get your permanent license key to unlock the app forever.
