@@ -37,7 +37,7 @@ Samurai Prompt Manager is a lightweight, portable desktop app built specifically
 
 Try it completely free for 14 days. No credit card, no email, all features unlocked.
 
-👉 **[Download Free Trial from GitHub Releases](Releasesリンク)**
+👉 **[Download Free Trial from GitHub Releases](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/prompt-manager)**
 
 Also available on [BOOTH (Japan)](https://samuraiya.booth.pm/items/8038166)
 
