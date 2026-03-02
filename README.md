@@ -3,8 +3,6 @@
 The ultimate standalone desktop tool for local AI image generators (Stable Diffusion / ComfyUI).  
 Stop losing your prompts and struggling with disconnected LoRAs.
 
-![screenshot](screenshots/main-ui.png)
-
 ## 🔥 Why this tool?
 
 Managing thousands of locally generated images and hundreds of LoRAs is a nightmare. 
