@@ -1,35 +1,54 @@
 # Samurai Prompt Manager ⚔️
 
-The ultimate standalone desktop tool for local AI image generators (Stable Diffusion / ComfyUI). 
+The ultimate standalone desktop tool for local AI image generators (Stable Diffusion / ComfyUI).  
 Stop losing your prompts and struggling with disconnected LoRAs.
 
+![screenshot](screenshots/main-ui.png)
+
 ## 🔥 Why this tool?
-Managing thousands of local generated images and hundreds of LoRAs is a nightmare. Existing image viewers like Eagle don't natively read complex PNG chunks, and WebUI extensions break constantly.
+
+Managing thousands of locally generated images and hundreds of LoRAs is a nightmare. 
+Existing image viewers don't natively read PNG metadata, and WebUI extensions break constantly.
 
 Samurai Prompt Manager is a lightweight, portable desktop app built specifically for heavy local generators.
 
 ## ✨ Key Features
-* **Deep PNG Chunk Parsing**: Instantly extract generation data directly from your images.
-* **Civitai API Integration**: Automatically link your local LoRAs with Civitai's database. Never forget a trigger word again.
-* **Portable & Clean**: No messy registry installations. Download the ZIP, extract, and run. Zero footprint on your system.
-* **Offline Capable**: Works beautifully even when disconnected.
+
+| Feature | Description |
+|---------|-------------|
+| 📸 PNG Metadata Parsing | Drag & drop any image → instantly extracts prompt, negative, model, seed |
+| 🎨 LoRA Manager | Track trigger words, weights, and preview images for all your LoRAs |
+| 🔗 CivitAI Integration | One-click import models, images, and all metadata via API |
+| ⚙️ Workflow Manager | Store and organize your ComfyUI workflows |
+| 🎞️ FramePack Support | Manage FramePack video generation parameters |
+| 🔍 Pinterest Research | Visual prompt research tool built-in |
+| 📦 Portable & Clean | ZIP extract and run. No install, no registry, zero footprint |
+| 🔒 100% Offline | All data stored locally. Works without internet |
+
+## 📸 Screenshots
+
+<img width="1896" height="995" alt="スクリーンショット 2026-02-27 231309" src="https://github.com/user-attachments/assets/7810e9f0-e9be-4941-91fb-07d878094824" />
+<img width="1912" height="1024" alt="スクリーンショット 2026-02-27 234243" src="https://github.com/user-attachments/assets/4af509b8-4e8c-45c5-b6e2-30af8c24ad93" />
+<img width="1906" height="891" alt="スクリーンショット 2026-03-02 192323" src="https://github.com/user-attachments/assets/ec9d4a17-ac7f-44ae-9e47-718e5684b82f" />
+<img width="1908" height="1029" alt="スクリーンショット 2026-02-27 234222" src="https://github.com/user-attachments/assets/6e3ba3e2-8ffd-4b6e-b999-29a2085c7d11" />
+
 
 ## 🎁 14-Day Free Trial
-Not sure if it fits your workflow? Try it completely free for 14 days. 
-No credit card required, all features unlocked.
 
-👉 **[Download the Free Trial (ZIP / EXE / Portable) here](https://buy.polar.sh/polar_cl_0GiemkyRD70slqTAT8PgkT5FY0l6vgB6hUXjq2Ze6Mg)**
+Try it completely free for 14 days. No credit card, no email, all features unlocked.
 
-👉 **[Download the Free Trial (ZIP / EXE /Portable) here (No email address required1) ](https://mega.nz/folder/Y00HUK6Z#pVdwT6q_hoLH-yLndrGavw)**
+👉 **[Download Free Trial from GitHub Releases](Releasesリンク)**
 
-👉 **[Download the Free Trial (ZIP / EXE/ Portable) here (No email address required2) ](https://samuraiya.booth.pm/items/8038166)**
+Also available on [BOOTH (Japan)](https://samuraiya.booth.pm/items/8038166)
 
 ## 🚀 Get the Full License
-Loved the trial? Get your permanent license key to unlock the app forever.
 
-👉 **[Buy Now for $19.99 (One-time purchase)](https://buy.polar.sh/polar_cl_Sy0hY9yzAaLfDa7zENrCRPLMCG2TgRD1dsel13P0vdK)**
+One-time purchase. No subscription.
 
-*Note: After purchasing, you will receive a license key via email. Simply enter it into the app to activate your lifetime license.*
+👉 **[Buy License — $19 (Polar.sh)](https://buy.polar.sh/polar_cl_Sy0hY9yzAaLfDa7zENrCRPLMCG2TgRD1dsel13P0vdK)**
 
-## 💬 Support & Feedback
-Found a bug or have a feature request? Open an issue here on GitHub!
+After purchase, enter your license key in the app to activate.
+
+## 💬 Feedback
+
+Found a bug or have a feature request? [Open an issue](../../issues)!
