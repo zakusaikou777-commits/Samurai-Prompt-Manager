@@ -31,9 +31,9 @@ Samurai Prompt Manager is a lightweight, portable desktop app built specifically
 <img width="1908" height="1029" alt="スクリーンショット 2026-02-27 234222" src="https://github.com/user-attachments/assets/6e3ba3e2-8ffd-4b6e-b999-29a2085c7d11" />
 
 
-## 🎁 14-Day Free Trial
+🎁 Free Up to 200 Images
 
-Try it completely free for 14 days. No credit card, no email, all features unlocked.
+Enjoy all features free for up to 200 images — no credit card or email required.
 
 👉 **[Download Free Trial from GitHub Releases](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/prompt-manager)**
 
@@ -43,7 +43,7 @@ Also available on [BOOTH (Japan)](https://samuraiya.booth.pm/items/8038166)
 
 One-time purchase. No subscription.
 
-👉 **[Buy License — $19 (Polar.sh)](https://buy.polar.sh/polar_cl_Sy0hY9yzAaLfDa7zENrCRPLMCG2TgRD1dsel13P0vdK)**
+👉 **[Buy License — $14.9 (Polar.sh)](https://buy.polar.sh/polar_cl_Sy0hY9yzAaLfDa7zENrCRPLMCG2TgRD1dsel13P0vdK)**
 
 After purchase, enter your license key in the app to activate.
 
