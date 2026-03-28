@@ -1,9 +1,10 @@
 {
   "version": "14.3.9",
-  "url": "、https://samuraiya.booth.pm/items/8059288",
+  "url": "https://samuraiya.booth.pm/items/8059288",
   "url_label": "Booth",
   "url2": "https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager",
   "url2_label": "GitHub",
-  "changelog_en": "UI Refresh, Civitai Bulk Image Downloader, ControlNet Presets",
-  "changelog_ja": "UI刷新、Civitai画像一括DL、ControlNetプリセット"
+  "changelog_en": "UI Refresh (hover effects, animations), Civitai Bulk Image Downloader, ControlNet/IPAdapter Presets, Accent Color Picker, Builder buttons fix (Electron sandbox)",
+  "changelog_ja": "UI刷新（ホバーエフェクト・アニメーション）、Civitai画像一括DL、ControlNet/IPAdapterプリセット、アクセントカラー切替、Builderボタン修正（sandbox対応）",
+  "min_version": "14.0.0"
 }
