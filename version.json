@@ -1,0 +1,7 @@
+{
+  "version": "14.3.9",
+  "url": "https://your-site.com/download",
+  "changelog_en": "UI Refresh, Civitai Bulk Image Downloader, ControlNet Presets",
+  "changelog_ja": "UI刷新、Civitai画像一括DL、ControlNetプリセット",
+  "min_version": "14.0.0"
+}
