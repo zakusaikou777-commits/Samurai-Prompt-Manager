@@ -54,6 +54,12 @@ Free: 100カードまで / Paid: $9.90（2台まで）
 
 ---
 
+## 🌐 関連記事（Civitai.red）
+Samurai Prompt Manager の詳細レビュー・解説記事はこちら：
+🔗 https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
+
+---
+
 # 🗡️ Samurai Prompt Manager
 Prompt & SD Card Manager for Stable Diffusion  
 (Compatible with A1111 / Forge / SwarmUI / ComfyUI)
@@ -110,5 +116,8 @@ Click the thumbnail to watch:
 ## 📥 Download
 https://samuraiya.booth.pm/items/8059288
 
-https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
+---
 
+## 🌐 Related Article (Civitai.red)
+A detailed review and explanation of Samurai Prompt Manager is available here:
+🔗 https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
