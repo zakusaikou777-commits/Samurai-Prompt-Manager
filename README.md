@@ -1,5 +1,6 @@
 # 🗡️ Samurai Prompt Manager
-ComfyUI向けプロンプト / SDカード管理ツール  
+Stable Diffusion 向け プロンプト / SDカード管理ツール  
+（A1111 / Forge / SwarmUI / ComfyUI で利用可能）
 Free: 100カードまで / Paid: $9.90（2台まで）
 
 ## 🎥 動画デモ（4分）
@@ -53,9 +54,9 @@ Free: 100カードまで / Paid: $9.90（2台まで）
 
 ---
 
-# 🗡️ Samurai Prompt Manager (English)
-
-Prompt / SD Card Manager for ComfyUI  
+# 🗡️ Samurai Prompt Manager
+Prompt & SD Card Manager for Stable Diffusion  
+(Compatible with A1111 / Forge / SwarmUI / ComfyUI)
 Free: Up to 100 cards • Paid: $9.90 (2 devices)
 
 ---
