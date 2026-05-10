@@ -4,8 +4,7 @@ Free: 100カードまで / Paid: $9.90（2台まで）
 
 ## 🎥 動画デモ（4分）
 サムネイルをクリックすると再生できます：
-[![Samurai Prompt Manager Demo]([https://youtu.be/1QffMAadCrY](https://youtu.be/lQMfM4adCrY))
-
+[![Samurai Prompt Manager Demo](https://img.youtube.com/vi/lQMfM4adCrY/0.jpg)](https://youtu.be/lQMfM4adCrY)
 
 ---
 
@@ -62,10 +61,8 @@ Free: Up to 100 cards • Paid: $9.90 (2 devices)
 ---
 
 ## 🎥 Demo Video (4 minutes)
-
 Click the thumbnail to watch:
-
-[![Samurai Prompt Manager Demo](https://img.youtube.com/vi/1QffMAadCrY/0.jpg)](https://youtu.be/1QffMAadCrY)
+[![Samurai Prompt Manager Demo](https://img.youtube.com/vi/lQMfM4adCrY/0.jpg)](https://youtu.be/lQMfM4adCrY)
 
 
 
