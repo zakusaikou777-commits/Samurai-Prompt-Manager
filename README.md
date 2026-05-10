@@ -109,3 +109,6 @@ Click the thumbnail to watch:
 
 ## 📥 Download
 https://samuraiya.booth.pm/items/8059288
+
+https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
+
