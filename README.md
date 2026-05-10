@@ -2,6 +2,12 @@
 ComfyUI向けプロンプト / SDカード管理ツール  
 Free: 100カードまで / Paid: $9.90（2台まで）
 
+## 🎥 動画デモ（4分）
+
+サムネイルをクリックすると再生できます：
+
+[![Samurai Prompt Manager Demo](https://img.youtube.com/vi/1QffMAadCrY/0.jpg)](https://youtu.be/1QffMAadCrY)
+
 ---
 
 ## 📌 License & Card Limit
@@ -55,6 +61,14 @@ Prompt / SD Card Manager for ComfyUI
 Free: Up to 100 cards • Paid: $9.90 (2 devices)
 
 ---
+
+## 🎥 Demo Video (4 minutes)
+
+Click the thumbnail to watch:
+
+[![Samurai Prompt Manager Demo](https://img.youtube.com/vi/1QffMAadCrY/0.jpg)](https://youtu.be/1QffMAadCrY)
+
+
 
 ## 📌 License & Card Limit
 - **Free version**: Register up to **100 cards**  
