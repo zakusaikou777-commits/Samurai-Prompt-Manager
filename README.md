@@ -120,4 +120,4 @@ https://samuraiya.booth.pm/items/8059288
 
 ## 🌐 Related Article (Civitai.red)
 A detailed review and explanation of Samurai Prompt Manager is available here:
-🔗 https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
+🔗[ https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction](https://civitai.red/articles/30481)
