@@ -56,7 +56,7 @@ Free: 100カードまで / Paid: $9.90（2台まで）
 
 ## 🌐 関連記事（Civitai.red）
 Samurai Prompt Manager の詳細レビュー・解説記事はこちら：
-🔗 https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction
+🔗 [https://civitai.red/articles/29270/samurai-prompt-manager-en-or-v141199-nder-construction](https://civitai.red/articles/30481)
 
 ---
 
