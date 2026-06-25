@@ -4,7 +4,7 @@
   "url_label": "Booth",
   "url2": "https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager",
   "url2_label": "GitHub",
-  "changelog_en": "See https://civitai.red/articles/30481 for details.",
-  "changelog_ja": "更新内容は下記リンク先に記載しています。",
+  "changelog_en": "See Booth or https://civitai.red/articles/30481 for the update details.",
+  "changelog_ja": "更新内容は Booth または https://civitai.red/articles/30481 をご覧ください。",
   "min_version": "14.0.0"
 }
