@@ -50,7 +50,7 @@ Samurai Prompt Manager is a **local-first desktop app** (Electron) that turns th
 
 | Card & model library | Civitai search & matching | AI image edit (inpaint) |
 |---|---|---|
-| ![Card and model library](cards.png) | ![Civitai search](civitai.png) | ![AI image edit](images/ai-edit.png) |
+| ![Card and model library](cards.png) | ![Civitai search](civitai.png) | ![AI image edit](ai-edit.png) |
 
 ---
 
