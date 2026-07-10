@@ -81,7 +81,7 @@ The free version stores up to **100 cards**; once you hit the limit, new cards c
 ## ⬇️ Download & install
 
 Prebuilt packages are distributed on **[Booth](https://samuraiya.booth.pm/items/8059288)**
-Prebuilt packages are distributed on **[github](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager)**
+**Prebuilt packages are distributed on **[github](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager)**
 
 
 | OS | Format |
