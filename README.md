@@ -74,12 +74,15 @@ Click to watch on YouTube:
 The free version stores up to **100 cards**; once you hit the limit, new cards can't be saved (you can still delete and reuse existing slots). The full license is needed once you want to manage more than 100 cards.
 
 ➡️ **[Get the free or full version on Booth](https://samuraiya.booth.pm/items/8059288)**
+➡️ **[Get the free or full version on github](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager)**
 
 ---
 
 ## ⬇️ Download & install
 
 Prebuilt packages are distributed on **[Booth](https://samuraiya.booth.pm/items/8059288)**.
+Prebuilt packages are distributed on **[github]([https://samuraiya.booth.pm/items/8059288](https://github.com/zakusaikou777-commits/Samurai-Prompt-Manager/releases/tag/samurai-prompt-manager)**.
+
 
 | OS | Format |
 |---|---|
